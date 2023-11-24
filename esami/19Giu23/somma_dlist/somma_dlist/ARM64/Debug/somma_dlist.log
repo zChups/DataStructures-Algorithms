@@ -1,0 +1,9 @@
+﻿  doublelist.c
+  elemtype.c
+  main.c
+  sum_dlist.c
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\esami\19Giu23\somma_dlist\somma_dlist\sum_dlist.c(58,34): warning C4047: 'funzione': 'const ElemType *' differisce da 'int' nei livelli di riferimento indiretto
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\esami\19Giu23\somma_dlist\somma_dlist\sum_dlist.c(58,34): warning C4024: 'DListInsertHead': tipi diversi tra il parametro 1 formale e quello effettivo
+  Generazione del codice in corso...
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\esami\19Giu23\somma_dlist\somma_dlist\sum_dlist.c(68): warning C4715: 'DListSum': non tutti i percorsi di controllo restituiscono un valore
+  somma_dlist.vcxproj -> \\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\esami\19Giu23\somma_dlist\ARM64\Debug\somma_dlist.exe

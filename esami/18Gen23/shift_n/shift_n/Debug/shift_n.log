@@ -1,0 +1,3 @@
+﻿  shift.c
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno _main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\esami\18Gen23\shift_n\Debug\shift_n.exe : fatal error LNK1120: 1 esterni non risolti

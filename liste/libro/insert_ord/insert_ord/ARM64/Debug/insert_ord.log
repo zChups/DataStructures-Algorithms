@@ -1,0 +1,7 @@
+﻿  insert_ord.c
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\insert_ord\insert_ord\insert_ord.c(15,9): warning C4047: '=': 'bool *' differisce da 'int' nei livelli di riferimento indiretto
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\insert_ord\insert_ord\insert_ord.c(26,21): warning C4047: 'funzione': 'bool *' differisce da 'bool' nei livelli di riferimento indiretto
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\insert_ord\insert_ord\insert_ord.c(26,21): warning C4024: 'InsertOrdRec': tipi diversi tra il parametro 3 formale e quello effettivo
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\insert_ord\insert_ord\insert_ord.c(5): warning C4716: 'InsertOrdIter': deve restituire un valore
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\insert_ord\insert_ord\insert_ord.c(19): warning C4715: 'InsertOrdRec': non tutti i percorsi di controllo restituiscono un valore
+  insert_ord.vcxproj -> \\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\insert_ord\ARM64\Debug\insert_ord.exe

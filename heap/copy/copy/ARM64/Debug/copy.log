@@ -1,0 +1,10 @@
+﻿  elemtype.c
+  minheap.c
+  copy.c
+  main.c
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\heap\copy\copy\main.c(10,12): warning C4013: 'calloc' non definita. Verrà considerata come esterna che restituisce un int.
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\heap\copy\copy\main.c(10,10): warning C4047: '=': 'ElemType *' differisce da 'int' nei livelli di riferimento indiretto
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\heap\copy\copy\main.c(11,2): warning C4013: 'memcpy' non definita. Verrà considerata come esterna che restituisce un int.
+  Generazione del codice in corso...
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\heap\copy\copy\copy.c(17): warning C4172: verrà restituito l'indirizzo del valore : ret temporaneo o della variabile locale
+  copy.vcxproj -> \\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\heap\copy\ARM64\Debug\copy.exe

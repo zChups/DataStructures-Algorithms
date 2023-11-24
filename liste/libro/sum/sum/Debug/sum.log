@@ -1,0 +1,4 @@
+﻿  sum.c
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\sum\sum\sum.c(21,8): warning C4090: 'inizializzazione': qualificatori 'const' differenti
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\sum\sum\sum.c(22,8): warning C4090: 'inizializzazione': qualificatori 'const' differenti
+  sum.vcxproj -> \\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\sum\Debug\sum.exe

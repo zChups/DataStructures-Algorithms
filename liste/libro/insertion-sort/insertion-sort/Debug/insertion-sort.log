@@ -1,0 +1,5 @@
+﻿  insertionsort.c
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\insertion-sort\insertion-sort\insertionsort.c(31,29): warning C4047: 'funzione': 'Item *' differisce da 'Item **' nei livelli di riferimento indiretto
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\insertion-sort\insertion-sort\insertionsort.c(31,29): warning C4024: 'InsertInList': tipi diversi tra il parametro 3 formale e quello effettivo
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\insertion-sort\insertion-sort\insertionsort.c(21): warning C4715: 'InsertInList': non tutti i percorsi di controllo restituiscono un valore
+  insertion-sort.vcxproj -> \\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\insertion-sort\Debug\insertion-sort.exe

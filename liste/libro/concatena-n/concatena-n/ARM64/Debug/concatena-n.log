@@ -1,0 +1,8 @@
+﻿  elemtype.c
+  list.c
+  concatena_n.c
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\concatena-n\concatena-n\concatena_n.c(8,25): warning C4047: 'funzione': 'Item *' differisce da 'int' nei livelli di riferimento indiretto
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\concatena-n\concatena-n\concatena_n.c(8,25): warning C4024: 'ListInsertBack': tipi diversi tra il parametro 1 formale e quello effettivo
+  main.c
+  Generazione del codice in corso...
+  concatena-n.vcxproj -> \\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\concatena-n\ARM64\Debug\concatena-n.exe

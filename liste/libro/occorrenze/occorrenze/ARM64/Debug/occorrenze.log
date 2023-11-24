@@ -1,0 +1,13 @@
+﻿  elemtype.c
+  list.c
+  main.c
+  occorrenze.c
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\occorrenze\occorrenze\occorrenze.c(5,52): error C2143: errore di sintassi: ')' mancante prima di '*'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\occorrenze\occorrenze\occorrenze.c(5,52): error C2143: errore di sintassi: '{' mancante prima di '*'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\occorrenze\occorrenze\occorrenze.c(5,59): error C2059: errore di sintassi: 'tipo'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\occorrenze\occorrenze\occorrenze.c(5,66): error C2059: errore di sintassi: ')'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\occorrenze\occorrenze\occorrenze.c(10,49): error C2143: errore di sintassi: ')' mancante prima di '*'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\occorrenze\occorrenze\occorrenze.c(10,49): error C2143: errore di sintassi: '{' mancante prima di '*'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\occorrenze\occorrenze\occorrenze.c(10,52): error C2059: errore di sintassi: ')'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\occorrenze\occorrenze\occorrenze.c(10,54): error C2054: previsto '(' dopo 'e'
+  Generazione del codice in corso...

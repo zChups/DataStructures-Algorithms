@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pop", "pop\pop.vcxproj", "{CC457172-238D-45BA-8523-0B0730CE1746}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC457172-238D-45BA-8523-0B0730CE1746}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{CC457172-238D-45BA-8523-0B0730CE1746}.Debug|ARM64.Build.0 = Debug|ARM64
+		{CC457172-238D-45BA-8523-0B0730CE1746}.Debug|x64.ActiveCfg = Debug|x64
+		{CC457172-238D-45BA-8523-0B0730CE1746}.Debug|x64.Build.0 = Debug|x64
+		{CC457172-238D-45BA-8523-0B0730CE1746}.Debug|x86.ActiveCfg = Debug|Win32
+		{CC457172-238D-45BA-8523-0B0730CE1746}.Debug|x86.Build.0 = Debug|Win32
+		{CC457172-238D-45BA-8523-0B0730CE1746}.Release|ARM64.ActiveCfg = Release|ARM64
+		{CC457172-238D-45BA-8523-0B0730CE1746}.Release|ARM64.Build.0 = Release|ARM64
+		{CC457172-238D-45BA-8523-0B0730CE1746}.Release|x64.ActiveCfg = Release|x64
+		{CC457172-238D-45BA-8523-0B0730CE1746}.Release|x64.Build.0 = Release|x64
+		{CC457172-238D-45BA-8523-0B0730CE1746}.Release|x86.ActiveCfg = Release|Win32
+		{CC457172-238D-45BA-8523-0B0730CE1746}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14CAC43C-CD27-434B-A2D3-D6D66B326366}
+	EndGlobalSection
+EndGlobal

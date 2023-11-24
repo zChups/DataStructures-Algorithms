@@ -1,0 +1,10 @@
+﻿  main.c
+  regole.c
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\backtracking\regole\regole.c(26,25): warning C4047: 'funzione': 'int *' differisce da 'int' nei livelli di riferimento indiretto
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\backtracking\regole\regole.c(26,22): warning C4024: 'RegoleRec': tipi diversi tra il parametro 3 formale e quello effettivo
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\backtracking\regole\regole.c(26,32): warning C4133: 'funzione': tipi non compatibili. Da 'int *' a 'bool *'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\backtracking\regole\regole.c(26,39): warning C4047: 'funzione': 'int' differisce da 'bool *' nei livelli di riferimento indiretto
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\backtracking\regole\regole.c(26,34): warning C4024: 'RegoleRec': tipi diversi tra il parametro 5 formale e quello effettivo
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\backtracking\regole\regole.c(38,10): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  Generazione del codice in corso...
+  regole.vcxproj -> \\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\backtracking\regole\arm64\Debug\regole.exe

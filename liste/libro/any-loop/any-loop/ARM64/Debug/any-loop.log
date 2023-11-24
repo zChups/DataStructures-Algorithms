@@ -1,0 +1,7 @@
+﻿  elemtype.c
+  list.c
+  any_loop.c
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\any-loop\any-loop\any_loop.c(9,12): warning C4090: '=': qualificatori 'const' differenti
+  main.c
+  Generazione del codice in corso...
+  any-loop.vcxproj -> \\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\any-loop\ARM64\Debug\any-loop.exe

@@ -1,0 +1,29 @@
+﻿  length.c
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\length\length\list.h(20,5): error C2061: errore di sintassi: identificatore 'ElemType'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\length\length\list.h(22,1): error C2059: errore di sintassi: '}'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\length\length\list.h(42,37): error C2143: errore di sintassi: ')' mancante prima di '*'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\length\length\list.h(42,37): error C2143: errore di sintassi: '{' mancante prima di '*'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\length\length\list.h(42,41): error C2371: 'Item': ridefinizione. Tipi di base differenti.
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\length\length\list.h(24,21): message : vedere la dichiarazione di 'Item'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\length\length\list.h(42,46): error C2143: errore di sintassi: ';' mancante prima di '*'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\length\length\list.h(42,48): error C2059: errore di sintassi: ')'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\length\length\list.h(61,16): error C2143: errore di sintassi: '{' mancante prima di '*'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\length\length\list.h(87,46): error C2143: errore di sintassi: ')' mancante prima di '*'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\length\length\list.h(87,46): error C2143: errore di sintassi: '{' mancante prima di '*'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\length\length\list.h(87,48): error C2059: errore di sintassi: ')'
+  main.c
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\length\length\list.h(20,5): error C2061: errore di sintassi: identificatore 'ElemType'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\length\length\list.h(22,1): error C2059: errore di sintassi: '}'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\length\length\list.h(42,37): error C2143: errore di sintassi: ')' mancante prima di '*'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\length\length\list.h(42,37): error C2143: errore di sintassi: '{' mancante prima di '*'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\length\length\list.h(42,41): error C2371: 'Item': ridefinizione. Tipi di base differenti.
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\length\length\list.h(24,21): message : vedere la dichiarazione di 'Item'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\length\length\list.h(42,46): error C2143: errore di sintassi: ';' mancante prima di '*'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\length\length\list.h(42,48): error C2059: errore di sintassi: ')'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\length\length\list.h(61,16): error C2143: errore di sintassi: '{' mancante prima di '*'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\length\length\list.h(87,46): error C2143: errore di sintassi: ')' mancante prima di '*'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\length\length\list.h(87,46): error C2143: errore di sintassi: '{' mancante prima di '*'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\length\length\list.h(87,48): error C2059: errore di sintassi: ')'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\length\length\main.c(11,13): warning C4013: 'ListInsertHead' non definita. Verrà considerata come esterna che restituisce un int.
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\length\length\main.c(11,8): warning C4047: 'inizializzazione': 'Item *' differisce da 'int' nei livelli di riferimento indiretto
+  Generazione del codice in corso...

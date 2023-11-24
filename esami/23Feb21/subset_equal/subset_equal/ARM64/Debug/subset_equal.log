@@ -1,0 +1,3 @@
+﻿  subset_equal.c
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\esami\23Feb21\subset_equal\subset_equal\subset_equal.c(13): warning C4717: 'SubsetEqualRec': funzione ricorsiva su tutti i percorsi di controlli, provocherà un overflow dello stack in fase di esecuzione
+  subset_equal.vcxproj -> \\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\esami\23Feb21\subset_equal\ARM64\Debug\subset_equal.exe

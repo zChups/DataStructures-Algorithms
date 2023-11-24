@@ -1,0 +1,11 @@
+﻿  elemtype.c
+  minheap.c
+  isheap.c
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\esami\01Giu23\IsHeap\IsHeap\isheap.c(15,20): warning C4090: 'funzione': qualificatori 'const' differenti
+  main.c
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\esami\01Giu23\IsHeap\IsHeap\main.c(8,12): warning C4013: 'calloc' non definita. Verrà considerata come esterna che restituisce un int.
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\esami\01Giu23\IsHeap\IsHeap\main.c(8,10): warning C4047: '=': 'ElemType *' differisce da 'int' nei livelli di riferimento indiretto
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\esami\01Giu23\IsHeap\IsHeap\main.c(9,2): warning C4013: 'memcpy' non definita. Verrà considerata come esterna che restituisce un int.
+  Generazione del codice in corso...
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\esami\01Giu23\IsHeap\IsHeap\isheap.c(11): warning C4715: 'IsHeapRec': non tutti i percorsi di controllo restituiscono un valore
+  IsHeap.vcxproj -> \\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\esami\01Giu23\IsHeap\ARM64\Debug\IsHeap.exe

@@ -1,0 +1,5 @@
+﻿  vector_list.c
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\vector_list\vector_list\vector_list.c(9,20): warning C4018: '<': errata corrispondenza tra signed e unsigned
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\vector_list\vector_list\vector_list.c(27,21): warning C4018: '<': errata corrispondenza tra signed e unsigned
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\vector_list\vector_list\vector_list.c(33,21): warning C4018: '<': errata corrispondenza tra signed e unsigned
+  vector_list.vcxproj -> \\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\vector_list\Debug\vector_list.exe

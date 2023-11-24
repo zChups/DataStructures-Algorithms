@@ -1,0 +1,10 @@
+﻿  elemtype.c
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\coords-load\coords-load\elemtype.c(21,16): warning C4477: 'fprintf': con la stringa di formato '%d' è necessario un argomento di tipo 'int', ma il tipo dell'argomento variadic 1 è 'const int *'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\coords-load\coords-load\elemtype.c(21,16): warning C4313: 'fprintf': '%d' nella stringa di formato è in conflitto con l'argomento 1 di tipo 'const int *'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\coords-load\coords-load\elemtype.c(21,16): warning C4477: 'fprintf': con la stringa di formato '%d' è necessario un argomento di tipo 'int', ma il tipo dell'argomento variadic 2 è 'const int *'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\coords-load\coords-load\elemtype.c(21,16): warning C4313: 'fprintf': '%d' nella stringa di formato è in conflitto con l'argomento 2 di tipo 'const int *'
+  list.c
+  load.c
+  main.c
+  Generazione del codice in corso...
+  coords-load.vcxproj -> \\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\coords-load\ARM64\Debug\coords-load.exe

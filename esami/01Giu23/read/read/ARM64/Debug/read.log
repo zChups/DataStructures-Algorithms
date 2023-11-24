@@ -1,0 +1,10 @@
+﻿  elemtype.c
+  tree.c
+  main.c
+  read.c
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\esami\01Giu23\read\read\read.c(7,23): warning C4477: 'fscanf': con la stringa di formato '%c' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 1 è 'int'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\esami\01Giu23\read\read\read.c(12,20): warning C4477: 'fscanf': con la stringa di formato '%c' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 1 è 'int'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\esami\01Giu23\read\read\read.c(7,13): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\esami\01Giu23\read\read\read.c(12,10): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\esami\01Giu23\read\read\read.c(25,12): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generazione del codice in corso...

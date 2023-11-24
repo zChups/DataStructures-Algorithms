@@ -1,0 +1,9 @@
+﻿  elemtype.c
+  tree.c
+  main.c
+  mergetree.c
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\esami\19Giu23\merge_tree\merge_tree\mergetree.c(18,42): warning C4090: 'funzione': qualificatori 'const' differenti
+  Generazione del codice in corso...
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\esami\19Giu23\merge_tree\merge_tree\mergetree.c(14): warning C4715: 'MergeTreeRec': non tutti i percorsi di controllo restituiscono un valore
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\esami\19Giu23\merge_tree\merge_tree\mergetree.c(19): warning C4715: 'MergeTree': non tutti i percorsi di controllo restituiscono un valore
+  merge_tree.vcxproj -> \\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\esami\19Giu23\merge_tree\ARM64\Debug\merge_tree.exe

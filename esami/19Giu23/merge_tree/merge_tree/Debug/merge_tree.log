@@ -1,0 +1,5 @@
+﻿  main.c
+  mergetree.c
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\esami\19Giu23\merge_tree\merge_tree\mergetree.c(31,21): warning C4090: 'funzione': qualificatori 'const' differenti
+  Generazione del codice in corso...
+  merge_tree.vcxproj -> \\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\esami\19Giu23\merge_tree\Debug\merge_tree.exe

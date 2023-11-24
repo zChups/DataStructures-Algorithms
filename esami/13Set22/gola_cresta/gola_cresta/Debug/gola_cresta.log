@@ -1,0 +1,3 @@
+﻿  gola_cresta.c
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno _main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\esami\13Set22\gola_cresta\Debug\gola_cresta.exe : fatal error LNK1120: 1 esterni non risolti

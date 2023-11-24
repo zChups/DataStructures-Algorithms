@@ -1,0 +1,4 @@
+﻿  any_loop.c
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\any-loop\any-loop\any_loop.c(4,8): warning C4090: 'inizializzazione': qualificatori 'const' differenti
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\any-loop\any-loop\any_loop.c(5,8): warning C4090: 'inizializzazione': qualificatori 'const' differenti
+  any-loop.vcxproj -> \\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\any-loop\Debug\any-loop.exe

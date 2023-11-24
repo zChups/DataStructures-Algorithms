@@ -1,0 +1,8 @@
+﻿  main.c
+  sum.c
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\sum\sum\sum.c(12,29): warning C4090: 'funzione': qualificatori 'const' differenti
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\sum\sum\sum.c(13,29): warning C4090: 'funzione': qualificatori 'const' differenti
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\sum\sum\sum.c(23,18): warning C4090: '=': qualificatori 'const' differenti
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\sum\sum\sum.c(27,18): warning C4090: '=': qualificatori 'const' differenti
+  Generazione del codice in corso...
+  sum.vcxproj -> \\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\sum\ARM64\Debug\sum.exe

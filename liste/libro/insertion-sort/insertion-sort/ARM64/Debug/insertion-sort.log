@@ -1,0 +1,5 @@
+﻿  insertionsort.c
+  main.c
+  Generazione del codice in corso...
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\insertion-sort\insertion-sort\insertionsort.c(19): warning C4715: 'InsertInList': non tutti i percorsi di controllo restituiscono un valore
+  insertion-sort.vcxproj -> \\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\insertion-sort\ARM64\Debug\insertion-sort.exe

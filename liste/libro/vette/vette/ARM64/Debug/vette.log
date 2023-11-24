@@ -1,0 +1,15 @@
+﻿  elemtype.c
+  list.c
+  main.c
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\vette\vette\main.c(7,2): error C2146: errore di sintassi: ';' mancante prima dell'identificatore 'Item'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\vette\vette\main.c(7,2): error C2275: 'Item': è prevista un'espressione invece di un tipo
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\vette\vette\main.c(7,11): error C2065: 'i1': identificatore non dichiarato
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\vette\vette\main.c(9,22): error C2065: 'i1': identificatore non dichiarato
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\vette\vette\main.c(9,20): warning C4047: 'funzione': 'const Item *' differisce da 'int' nei livelli di riferimento indiretto
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\vette\vette\main.c(9,20): warning C4024: 'ContaVette': tipi diversi tra il parametro 1 formale e quello effettivo
+  vette.c
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\vette\vette\vette.c(9,23): error C2143: errore di sintassi: ')' mancante prima di ';'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\vette\vette\vette.c(9,2): error C2198: 'ContaVetteRec': argomenti insufficienti per una chiamata
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\vette\vette\vette.c(9,37): error C2059: errore di sintassi: ')'
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\liste\libro\vette\vette\vette.c(10,15): warning C4047: '>': 'const ElemType' differisce da 'int *' nei livelli di riferimento indiretto
+  Generazione del codice in corso...

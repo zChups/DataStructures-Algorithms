@@ -1,0 +1,5 @@
+﻿  gruppi.c
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\backtracking\gruppi\gruppi.c(31,4): warning C4013: 'strcpy' non definita. Verrà considerata come esterna che restituisce un int.
+  main.c
+  Generazione del codice in corso...
+  gruppi.vcxproj -> \\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\backtracking\gruppi\arm64\Debug\gruppi.exe

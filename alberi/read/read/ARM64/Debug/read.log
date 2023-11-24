@@ -1,0 +1,8 @@
+﻿  elemtype.c
+  tree.c
+  main.c
+  read.c
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\alberi\read\read\read.c(7,13): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\alberi\read\read\read.c(11,3): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\alberi\read\read\read.c(22,12): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generazione del codice in corso...

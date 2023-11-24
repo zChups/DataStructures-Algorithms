@@ -1,0 +1,7 @@
+﻿  elemtype.c
+  tree.c
+  height.c
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\alberi\height\height\height.c(8,9): warning C4047: '>': 'int' differisce da 'int *' nei livelli di riferimento indiretto
+  main.c
+  Generazione del codice in corso...
+  height.vcxproj -> \\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\alberi\height\ARM64\Debug\height.exe

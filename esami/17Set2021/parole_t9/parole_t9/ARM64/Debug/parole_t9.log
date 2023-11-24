@@ -1,0 +1,4 @@
+﻿  t9.c
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\esami\17Set2021\parole_t9\parole_t9\t9.c(21,38): warning C4047: 'funzione': 'const char *' differisce da 'int' nei livelli di riferimento indiretto
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\esami\17Set2021\parole_t9\parole_t9\t9.c(21,38): warning C4024: 'atoi': tipi diversi tra il parametro 1 formale e quello effettivo
+  parole_t9.vcxproj -> \\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\esami\17Set2021\parole_t9\ARM64\Debug\parole_t9.exe

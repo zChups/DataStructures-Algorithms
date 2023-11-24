@@ -1,0 +1,4 @@
+﻿  robot.c
+\\.psf\Home\Scrivania2.0\Strutture dati + Algoritmi\backtracking\robot-grid\robot.c(25,35): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+\\.psf\Home\Scrivania2.0\Strutture dati + Algoritmi\backtracking\robot-grid\robot.c(18,41): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  robot-grid.vcxproj -> \\.psf\Home\Scrivania2.0\Strutture dati + Algoritmi\backtracking\robot-grid\arm64\Debug\robot-grid.exe

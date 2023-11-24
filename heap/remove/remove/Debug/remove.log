@@ -1,0 +1,5 @@
+﻿  main.c
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\heap\remove\remove\main.c(10,12): warning C4013: 'calloc' non definita. Verrà considerata come esterna che restituisce un int.
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\heap\remove\remove\main.c(10,10): warning C4047: '=': 'ElemType *' differisce da 'int' nei livelli di riferimento indiretto
+\\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\heap\remove\remove\main.c(11,2): warning C4013: 'memcpy' non definita. Verrà considerata come esterna che restituisce un int.
+  remove.vcxproj -> \\Mac\Home\Scrivania2.0\Strutture dati + Algoritmi\heap\remove\Debug\remove.exe
